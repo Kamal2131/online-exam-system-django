@@ -101,7 +101,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-Project Link: [https://github.com/kamal2131/online-exam-system](https://github.com/kamal2131/online-exam-system)
+Project Link: [https://github.com/kamal2131/online-exam-system](https://github.com/Kamal2131/online-exam-system-django/)
 
 ---
 
