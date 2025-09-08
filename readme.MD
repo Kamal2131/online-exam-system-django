@@ -70,7 +70,7 @@ python manage.py runserver
 ```
 
 Visit:
-- API: http://localhost:8000
+- API: http://localhost:8000/api/
 - Admin: http://localhost:8000/admin
 - Docs: http://localhost:8000/api/docs
 
